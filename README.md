@@ -1,19 +1,26 @@
 # DSA Practice 🚀
 
-My DSA problem-solving journey with solutions from LeetCode, HackerRank, and Code360.
+My Data Structures & Algorithms practice repository.
 
-## 📚 Topics
+I solve problems from LeetCode, HackerRank and Code360
+to strengthen problem-solving skills and prepare for
+technical interviews.
+
+## 🧠 Topics
 
 - Arrays
 - Strings
+- HashMap / HashSet
 - Two Pointers
 - Sliding Window
 - Binary Search
 - Stack
 - Queue
 - Linked List
-- Recursion
+- Heap / Priority Queue
 - Trees
+- Greedy
+- Recursion & Backtracking
 - Graphs
 - Dynamic Programming
 
@@ -23,22 +30,29 @@ My DSA problem-solving journey with solutions from LeetCode, HackerRank, and Cod
 - HackerRank
 - Code360
 
+## 📊 Progress
+
+| Difficulty | Solved |
+|------------|-------:|
+| Easy | 0 |
+| Medium | 1 |
+| Hard | 0 |
+| **Total** | **1** |
+
 ## 🎯 Goal
 
-To improve problem-solving skills, master Data Structures and Algorithms, and prepare for technical interviews.
+Build strong DSA fundamentals and prepare for
+software engineering technical interviews.
 
-## 📈 Progress
+## 🔄 Practice Workflow
 
-I regularly practice DSA problems and add my solutions to this repository.
+LeetCode
+→ LeetHub
+→ GitHub
+
+Solutions are automatically synced to this repository
+using LeetHub.
 
 ---
 
-⭐ This repository contains my learning journey and coding practice.
-
-<!-- LEETHUB:TABLE:START -->
-Solved: 1 (Easy: 0, Medium: 1, Hard: 0)
-
-| # | Problem | Difficulty | Solved |
-|---|---|---|---|
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-02 |
-<!-- LEETHUB:TABLE:END -->
+⭐ More problems will be added regularly.
