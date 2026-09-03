@@ -58,10 +58,11 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 2 (Easy: 0, Medium: 2, Hard: 0)
+Solved: 3 (Easy: 0, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-03 |
 | 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-03 |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-03 |
+| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-03 |
 <!-- LEETHUB:TABLE:END -->
