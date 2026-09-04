@@ -58,12 +58,13 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 4 (Easy: 0, Medium: 4, Hard: 0)
+Solved: 5 (Easy: 1, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-03 |
-| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-03 |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-03 |
-| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-03 |
+| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-04 |
+| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-04 |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-04 |
+| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-04 |
+| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-04 |
 <!-- LEETHUB:TABLE:END -->
