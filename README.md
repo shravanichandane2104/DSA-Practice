@@ -58,15 +58,16 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 7 (Easy: 1, Medium: 4, Hard: 2)
+Solved: 8 (Easy: 1, Medium: 5, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-07 |
-| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-07 |
-| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-07 |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-07 |
-| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-07 |
-| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-07 |
-| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-07 |
+| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-09 |
+| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-09 |
+| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-09 |
+| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-09 |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-09 |
+| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-09 |
+| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-09 |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
