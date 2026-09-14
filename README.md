@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 16 (Easy: 3, Medium: 10, Hard: 3)
+Solved: 17 (Easy: 3, Medium: 11, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -67,6 +67,7 @@ Solved: 16 (Easy: 3, Medium: 10, Hard: 3)
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-14 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-14 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-14 |
+| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-09-14 |
 | 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-14 |
 | 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-09-14 |
 | 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-09-14 |
@@ -77,5 +78,5 @@ Solved: 16 (Easy: 3, Medium: 10, Hard: 3)
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-14 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-14 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-14 |
-| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-09-14 |
+| 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-09-14 |
 <!-- LEETHUB:TABLE:END -->
