@@ -58,32 +58,33 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 4, Medium: 15, Hard: 5)
+Solved: 25 (Easy: 4, Medium: 15, Hard: 6)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-20 |
-| 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-09-20 |
-| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-20 |
-| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-20 |
-| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-20 |
-| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-20 |
-| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-09-20 |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 2026-09-20 |
-| 602 | [Friend Requests II: Who Has the Most Friends](602-friend-requests-ii-who-has-the-most-friends/) | Medium | 2026-09-20 |
-| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-20 |
-| 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-09-20 |
-| 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-09-20 |
-| 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-09-20 |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-20 |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-09-20 |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-09-20 |
-| 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-09-20 |
-| 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-09-20 |
-| 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-09-20 |
-| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-09-20 |
-| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-20 |
-| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-20 |
-| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-20 |
-| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-09-20 |
+| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-09-22 |
+| 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-09-22 |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-22 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-22 |
+| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-22 |
+| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-22 |
+| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-09-22 |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 2026-09-22 |
+| 602 | [Friend Requests II: Who Has the Most Friends](602-friend-requests-ii-who-has-the-most-friends/) | Medium | 2026-09-22 |
+| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-09-22 |
+| 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-09-22 |
+| 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-09-22 |
+| 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-09-22 |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-09-22 |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-09-22 |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-09-22 |
+| 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-09-22 |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-09-22 |
+| 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-09-22 |
+| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-09-22 |
+| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-09-22 |
+| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-22 |
+| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-22 |
+| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-22 |
+| 3525 | [Find X Value of Array II](3525-find-x-value-of-array-ii/) | Hard | 2026-09-22 |
 <!-- LEETHUB:TABLE:END -->
