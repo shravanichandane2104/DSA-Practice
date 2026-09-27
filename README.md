@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 28 (Easy: 4, Medium: 17, Hard: 7)
+Solved: 29 (Easy: 4, Medium: 18, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Solved: 28 (Easy: 4, Medium: 17, Hard: 7)
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-27 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-09-27 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-09-27 |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-27 |
 | 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-09-27 |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 2026-09-27 |
 | 3525 | [Find X Value of Array II](3525-find-x-value-of-array-ii/) | Hard | 2026-09-27 |
@@ -89,5 +90,5 @@ Solved: 28 (Easy: 4, Medium: 17, Hard: 7)
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-09-27 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-27 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-27 |
-| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-09-27 |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-09-27 |
 <!-- LEETHUB:TABLE:END -->
