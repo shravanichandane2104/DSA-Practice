@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 32 (Easy: 5, Medium: 20, Hard: 7)
+Solved: 33 (Easy: 5, Medium: 21, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -84,6 +84,7 @@ Solved: 32 (Easy: 5, Medium: 20, Hard: 7)
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-10-01 |
 | 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-10-01 |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-01 |
+| 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-01 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-01 |
 | 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-10-01 |
 | 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-10-01 |
@@ -93,5 +94,5 @@ Solved: 32 (Easy: 5, Medium: 20, Hard: 7)
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-01 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-01 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-01 |
-| 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-01 |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | 2026-10-01 |
 <!-- LEETHUB:TABLE:END -->
