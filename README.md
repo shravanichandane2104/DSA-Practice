@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 5, Medium: 19, Hard: 7)
+Solved: 32 (Easy: 5, Medium: 20, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -93,4 +93,5 @@ Solved: 31 (Easy: 5, Medium: 19, Hard: 7)
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-01 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-01 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-01 |
+| 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-01 |
 <!-- LEETHUB:TABLE:END -->
