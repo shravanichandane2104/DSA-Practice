@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 35 (Easy: 5, Medium: 22, Hard: 8)
+Solved: 36 (Easy: 5, Medium: 23, Hard: 8)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -79,6 +79,7 @@ Solved: 35 (Easy: 5, Medium: 22, Hard: 8)
 | 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-10-04 |
 | 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-04 |
 | 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-10-04 |
+| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-04 |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-10-04 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-04 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-04 |
@@ -96,5 +97,5 @@ Solved: 35 (Easy: 5, Medium: 22, Hard: 8)
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-04 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-04 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-04 |
-| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-04 |
+| 2116 | [Check if a Parentheses String Can Be Valid](2116-check-if-a-parentheses-string-can-be-valid/) | Medium | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
