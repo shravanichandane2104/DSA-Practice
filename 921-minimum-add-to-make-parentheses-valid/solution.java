@@ -1,12 +1,10 @@
-// 0 ms | 42.8 MB
+// 0 ms | 42.9 MB
 class Solution {
     public int minAddToMakeValid(String s) {
-
         int balance = 0;
         int ans = 0;
 
         for (char ch : s.toCharArray()) {
-
             if (ch == '(') {
                 balance++;
             } else {
