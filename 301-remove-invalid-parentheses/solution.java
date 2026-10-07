@@ -1,10 +1,11 @@
-// 59 ms | 47.8 MB
+// 55 ms | 47.7 MB
+
 import java.util.*;
 
 class Solution {
     public List<String> removeInvalidParentheses(String s) {
-
         List<String> ans = new ArrayList<>();
+
         Queue<String> queue = new LinkedList<>();
         Set<String> visited = new HashSet<>();
 
@@ -14,11 +15,9 @@ class Solution {
         boolean found = false;
 
         while (!queue.isEmpty()) {
-
             int size = queue.size();
 
             for (int k = 0; k < size; k++) {
-
                 String current = queue.poll();
 
                 if (isValid(current)) {
@@ -26,21 +25,20 @@ class Solution {
                     found = true;
                 }
 
-                if (found) {
-                    continue;
-                }
+                // If valid strings are found,
+                // don't generate the next level.
+                if (found) continue;
 
-                // Remove one parenthesis
                 for (int i = 0; i < current.length(); i++) {
-
                     char ch = current.charAt(i);
 
                     if (ch != '(' && ch != ')') {
                         continue;
                     }
 
-                    String next = current.substring(0, i)
-                            + current.substring(i + 1);
+                    String next =
+                        current.substring(0, i) +
+                        current.substring(i + 1);
 
                     if (visited.add(next)) {
                         queue.offer(next);
@@ -48,24 +46,19 @@ class Solution {
                 }
             }
 
-            if (found) {
-                break;
-            }
+            if (found) break;
         }
 
         return ans;
     }
 
     private boolean isValid(String s) {
-
         int balance = 0;
 
         for (char ch : s.toCharArray()) {
-
             if (ch == '(') {
                 balance++;
-            } 
-            else if (ch == ')') {
+            } else if (ch == ')') {
                 balance--;
 
                 if (balance < 0) {
