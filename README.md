@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 44 (Easy: 8, Medium: 26, Hard: 10)
+Solved: 45 (Easy: 8, Medium: 27, Hard: 10)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -103,7 +103,8 @@ Solved: 44 (Easy: 8, Medium: 26, Hard: 10)
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-10-11 |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-10-11 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-11 |
+| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-11 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-11 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-11 |
-| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-11 |
+| 633 | [Sum of Square Numbers](633-sum-of-square-numbers/) | Medium | 2026-10-11 |
 <!-- LEETHUB:TABLE:END -->
