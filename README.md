@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 48 (Easy: 8, Medium: 29, Hard: 11)
+Solved: 49 (Easy: 9, Medium: 29, Hard: 11)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -78,6 +78,7 @@ Solved: 48 (Easy: 8, Medium: 29, Hard: 11)
 | 602 | [Friend Requests II: Who Has the Most Friends](602-friend-requests-ii-who-has-the-most-friends/) | Medium | 2026-10-13 |
 | 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-10-13 |
 | 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-13 |
+| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-13 |
 | 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-10-13 |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy | 2026-10-13 |
 | 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-13 |
@@ -109,5 +110,5 @@ Solved: 48 (Easy: 8, Medium: 29, Hard: 11)
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-13 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-13 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-13 |
-| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-13 |
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
