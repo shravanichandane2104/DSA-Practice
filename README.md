@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 50 (Easy: 9, Medium: 30, Hard: 11)
+Solved: 51 (Easy: 9, Medium: 31, Hard: 11)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -86,6 +86,7 @@ Solved: 50 (Easy: 9, Medium: 30, Hard: 11)
 | 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-10-14 |
 | 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-14 |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-10-14 |
+| 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/) | Medium | 2026-10-14 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-14 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-14 |
@@ -111,5 +112,5 @@ Solved: 50 (Easy: 9, Medium: 30, Hard: 11)
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-14 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-14 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-14 |
-| 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-14 |
+| 2870 | [Minimum Number of Operations to Make Array Empty](2870-minimum-number-of-operations-to-make-array-empty/) | Medium | 2026-10-14 |
 <!-- LEETHUB:TABLE:END -->
