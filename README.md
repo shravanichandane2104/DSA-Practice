@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 55 (Easy: 10, Medium: 32, Hard: 13)
+Solved: 56 (Easy: 10, Medium: 33, Hard: 13)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -101,6 +101,7 @@ Solved: 55 (Easy: 10, Medium: 32, Hard: 13)
 | 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-10-18 |
 | 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-18 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-18 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-18 |
 | 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-10-18 |
 | 2551 | [Put Marbles in Bags](2551-put-marbles-in-bags/) | Hard | 2026-10-18 |
 | 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-10-18 |
@@ -116,5 +117,5 @@ Solved: 55 (Easy: 10, Medium: 32, Hard: 13)
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-18 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-18 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-18 |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-18 |
+| 78 | [Subsets](78-subsets/) | Medium | 2026-10-18 |
 <!-- LEETHUB:TABLE:END -->
