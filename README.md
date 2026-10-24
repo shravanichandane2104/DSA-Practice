@@ -58,7 +58,7 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 60 (Easy: 12, Medium: 34, Hard: 14)
+Solved: 61 (Easy: 13, Medium: 34, Hard: 14)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Solved: 60 (Easy: 12, Medium: 34, Hard: 14)
 | 2116 | [Check if a Parentheses String Can Be Valid](2116-check-if-a-parentheses-string-can-be-valid/) | Medium | 2026-10-24 |
 | 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-10-24 |
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-10-24 |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | Easy | 2026-10-24 |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-24 |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-24 |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-24 |
@@ -121,5 +122,5 @@ Solved: 60 (Easy: 12, Medium: 34, Hard: 14)
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-24 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-24 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-24 |
-| 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | Easy | 2026-10-24 |
+| 1360 | [Number of Days Between Two Dates](1360-number-of-days-between-two-dates/) | Easy | 2026-10-24 |
 <!-- LEETHUB:TABLE:END -->
