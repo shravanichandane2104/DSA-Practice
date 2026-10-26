@@ -58,70 +58,71 @@ using LeetHub.
 ⭐ More problems will be added regularly.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 62 (Easy: 13, Medium: 35, Hard: 14)
+Solved: 63 (Easy: 13, Medium: 36, Hard: 14)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 2026-10-25 |
-| 704 | [Binary Search](704-binary-search/) | Easy | 2026-10-25 |
-| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-10-25 |
-| 1096 | [Brace Expansion II](1096-brace-expansion-ii/) | Hard | 2026-10-25 |
-| 2116 | [Check if a Parentheses String Can Be Valid](2116-check-if-a-parentheses-string-can-be-valid/) | Medium | 2026-10-25 |
-| 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-10-25 |
-| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-10-25 |
-| 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | Easy | 2026-10-25 |
-| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-25 |
-| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-25 |
-| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-25 |
-| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-10-25 |
-| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-10-25 |
-| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-25 |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 2026-10-25 |
-| 3525 | [Find X Value of Array II](3525-find-x-value-of-array-ii/) | Hard | 2026-10-25 |
-| 602 | [Friend Requests II: Who Has the Most Friends](602-friend-requests-ii-who-has-the-most-friends/) | Medium | 2026-10-25 |
-| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-10-25 |
-| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-25 |
-| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-25 |
-| 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-10-25 |
-| 3602 | [Hexadecimal and Hexatrigesimal Conversion](3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy | 2026-10-25 |
-| 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-25 |
-| 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-10-25 |
-| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-25 |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-10-25 |
-| 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-25 |
-| 3727 | [Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/) | Medium | 2026-10-25 |
-| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-25 |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-25 |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-10-25 |
-| 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-10-25 |
-| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-10-25 |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-25 |
-| 2870 | [Minimum Number of Operations to Make Array Empty](2870-minimum-number-of-operations-to-make-array-empty/) | Medium | 2026-10-25 |
-| 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | 2026-10-25 |
-| 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-25 |
-| 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | Medium | 2026-10-25 |
-| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-25 |
-| 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-10-25 |
-| 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-25 |
-| 1360 | [Number of Days Between Two Dates](1360-number-of-days-between-two-dates/) | Easy | 2026-10-25 |
-| 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-25 |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-25 |
-| 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-10-25 |
-| 2551 | [Put Marbles in Bags](2551-put-marbles-in-bags/) | Hard | 2026-10-25 |
-| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-10-25 |
-| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-25 |
-| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-25 |
-| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-10-25 |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-10-25 |
-| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-10-25 |
-| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-25 |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-25 |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-25 |
-| 78 | [Subsets](78-subsets/) | Medium | 2026-10-25 |
-| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-10-25 |
-| 633 | [Sum of Square Numbers](633-sum-of-square-numbers/) | Medium | 2026-10-25 |
-| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-25 |
-| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-25 |
-| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-25 |
-| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/) | Medium | 2026-10-25 |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 2026-10-26 |
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-10-26 |
+| 930 | [Binary Subarrays With Sum](930-binary-subarrays-with-sum/) | Medium | 2026-10-26 |
+| 1096 | [Brace Expansion II](1096-brace-expansion-ii/) | Hard | 2026-10-26 |
+| 2116 | [Check if a Parentheses String Can Be Valid](2116-check-if-a-parentheses-string-can-be-valid/) | Medium | 2026-10-26 |
+| 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | Medium | 2026-10-26 |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-10-26 |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | Easy | 2026-10-26 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-26 |
+| 115 | [Distinct Subsequences](115-distinct-subsequences/) | Hard | 2026-10-26 |
+| 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | Hard | 2026-10-26 |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | 2026-10-26 |
+| 626 | [Exchange Seats](626-exchange-seats/) | Medium | 2026-10-26 |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-26 |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 2026-10-26 |
+| 3525 | [Find X Value of Array II](3525-find-x-value-of-array-ii/) | Hard | 2026-10-26 |
+| 602 | [Friend Requests II: Who Has the Most Friends](602-friend-requests-ii-who-has-the-most-friends/) | Medium | 2026-10-26 |
+| 904 | [Fruit Into Baskets](904-fruit-into-baskets/) | Medium | 2026-10-26 |
+| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-26 |
+| 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-26 |
+| 1282 | [Group the People Given the Group Size They Belong To](1282-group-the-people-given-the-group-size-they-belong-to/) | Medium | 2026-10-26 |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy | 2026-10-26 |
+| 835 | [Image Overlap](835-image-overlap/) | Medium | 2026-10-26 |
+| 585 | [Investments in 2016](585-investments-in-2016/) | Medium | 2026-10-26 |
+| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-26 |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 2026-10-26 |
+| 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-26 |
+| 3727 | [Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/) | Medium | 2026-10-26 |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-26 |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 2026-10-26 |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | Hard | 2026-10-26 |
+| 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | Hard | 2026-10-26 |
+| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-10-26 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-26 |
+| 2870 | [Minimum Number of Operations to Make Array Empty](2870-minimum-number-of-operations-to-make-array-empty/) | Medium | 2026-10-26 |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | 2026-10-26 |
+| 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-26 |
+| 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | Medium | 2026-10-26 |
+| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-26 |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-10-26 |
+| 2337 | [Move Pieces to Obtain a String](2337-move-pieces-to-obtain-a-string/) | Medium | 2026-10-26 |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/) | Medium | 2026-10-26 |
+| 1360 | [Number of Days Between Two Dates](1360-number-of-days-between-two-dates/) | Easy | 2026-10-26 |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 2026-10-26 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-26 |
+| 1070 | [Product Sales Analysis III](1070-product-sales-analysis-iii/) | Medium | 2026-10-26 |
+| 2551 | [Put Marbles in Bags](2551-put-marbles-in-bags/) | Hard | 2026-10-26 |
+| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-10-26 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-26 |
+| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-26 |
+| 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | Easy | 2026-10-26 |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | 2026-10-26 |
+| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/) | Easy | 2026-10-26 |
+| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-26 |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-26 |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-26 |
+| 78 | [Subsets](78-subsets/) | Medium | 2026-10-26 |
+| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-10-26 |
+| 633 | [Sum of Square Numbers](633-sum-of-square-numbers/) | Medium | 2026-10-26 |
+| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-26 |
+| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-26 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-26 |
+| 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-10-26 |
 <!-- LEETHUB:TABLE:END -->
